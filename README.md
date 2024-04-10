@@ -1,5 +1,5 @@
-# hi & welcome 
-💫 About Me:
+ hi & welcome 
+#💫 About Me:
 🔭 I’m currently working freelance on desktop apps<br>🌱 I’m currently learning web development<br>
 
 
