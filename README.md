@@ -1,9 +1,8 @@
 
 <p align="left">
-  <img src="https://media.giphy.com/media/3o7btQubDkRstMDguw/giphy.gif" alt="Header GIF" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" alt="Header GIF" />
 </p>
 
-###
 <h4 align="left">hi & welcome</h4>
 ###
 <h2 align="left">💫 About Me:</h2>
@@ -17,18 +16,15 @@
 </p>
 
 ###
-
-
-<h2 align="left">My Featured Project:</h2>
-
-###
 <h2 align="left">💼 Featured Project:</h2>
 
 ### [Stock Management](https://github.com/luchofranq/StockManagement)
 
 A comprehensive application for stock management built with Java, Python, and SQL. This project includes functionalities for adding and modifying stock items, viewing tables of stock, handling Excel file uploads, generating PDF quotes, and more.
 
-![Stock Management Screenshot](https://github.com/luchofranq/StockManagement/blob/main/images/table.png?raw=true)
+
+<img src="https://github.com/luchofranq/StockManagement/blob/main/images/main.png?raw=true" alt="Stock Management Screenshot" width="500" height="auto" />
+<img src="https://github.com/luchofranq/StockManagement/blob/main/images/quotation.png?raw=true" alt="Stock Management Screenshot" width="500" height="auto" />
 
 
   - **Technologies:** Java, Python, SQL, React
