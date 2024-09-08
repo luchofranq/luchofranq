@@ -1,22 +1,11 @@
-<h4 align="left">hi & welcome</h4>
-
-###
-
-
-<h2 align="left">🎥 Header GIF:</h2>
-
-###
-
 
 <p align="left">
-  <a href='https://moewalls.com/pixel-art/chill-mario-pixel-live-wallpaper/' target='_blank'>
-    <img src='https://moewalls.com/wp-content/uploads/2023/06/chill-mario-pixel-thumb-728x410.jpg' title='Chill Mario Pixel Live Wallpaper'>
-  </a>
+  <img src="https://moewalls.com/pixel-art/chill-mario-pixel-live-wallpaper/" alt="Header GIF" />
 </p>
 
 ###
-
-
+<h4 align="left">hi & welcome</h4>
+###
 <h2 align="left">💫 About Me:</h2>
 
 ###
@@ -36,7 +25,8 @@
 
 
 <p align="left">
-  ### [Stock Management](https://github.com/luchofranq/StockManagement)
+  ### 
+  [Stock Management](https://github.com/luchofranq/StockManagement)
   Stock Management is a desktop application built with Java, Python, and SQL designed for managing spare parts stock and quotations. <br>
   The application provides efficient tools to handle stock control, create quotations, and maintain a history of all transactions.
   
