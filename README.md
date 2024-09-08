@@ -3,34 +3,46 @@
 ###
 
 
+<h2 align="left">🎥 Header GIF:</h2>
+
+###
+
+
+<p align="left">
+  <a href='https://moewalls.com/pixel-art/chill-mario-pixel-live-wallpaper/' target='_blank'>
+    <img src='https://moewalls.com/wp-content/uploads/2023/06/chill-mario-pixel-thumb-728x410.jpg' title='Chill Mario Pixel Live Wallpaper'>
+  </a>
+</p>
+
+###
+
+
 <h2 align="left">💫 About Me:</h2>
 
 ###
 
 
-<p align="left">🔭 I’m currently working freelance on desktop apps<br>🌱 I’m currently learning web development</p>
+<p align="left">
+  🔭 I’m currently working freelance on desktop apps<br>
+  🌱 I’m currently learning web development
+</p>
 
 ###
 
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">My Featured Project:</h2>
 
 ###
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luciano-franqueira/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:franqueiraluciano.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-
-<p align="left"></p>
+<p align="left">
+  ### [Stock Management](https://github.com/luchofranq/StockManagement)
+  Stock Management is a desktop application built with Java, Python, and SQL designed for managing spare parts stock and quotations. <br>
+  The application provides efficient tools to handle stock control, create quotations, and maintain a history of all transactions.
+  
+  - **Technologies:** Java, Python, SQL, React
+  - [Read More](https://github.com/luchofranq/StockManagement/blob/c5db8e120cfc4a908ab4221440d387a30b4b7e18/README.md)
+</p>
 
 ###
 
@@ -67,9 +79,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" height="40" alt="blender logo"  />
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </div>
 
 ###
@@ -87,15 +99,8 @@
 </div>
 
 ###
-
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=luchofranq.luchofranq&left_color=aqua&right_color=aquamarine"  />
-
-###
-
 <br clear="both">
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/franqueira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="franqueira" /></a></p>
+
