@@ -27,7 +27,7 @@ A comprehensive application for stock management built with Java, Python, and SQ
 <img src="https://github.com/luchofranq/StockManagement/blob/main/images/quotation.png?raw=true" alt="Stock Management Screenshot" width="800" height="auto" align="center" />
 
 
-  - **Technologies:** Java, Python, SQL, React
+  - **Technologies:** Java, Python, SQL
   - [Read More](https://github.com/luchofranq/StockManagement/blob/c5db8e120cfc4a908ab4221440d387a30b4b7e18/README.md)
 
 
