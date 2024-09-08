@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="https://moewalls.com/pixel-art/chill-mario-pixel-live-wallpaper/" alt="Header GIF" />
+  <img src="https://media.giphy.com/media/3o7btQubDkRstMDguw/giphy.gif" alt="Header GIF" />
 </p>
 
 ###
@@ -22,17 +22,18 @@
 <h2 align="left">My Featured Project:</h2>
 
 ###
+<h2 align="left">💼 Featured Project:</h2>
+
+### [Stock Management](https://github.com/luchofranq/StockManagement)
+
+A comprehensive application for stock management built with Java, Python, and SQL. This project includes functionalities for adding and modifying stock items, viewing tables of stock, handling Excel file uploads, generating PDF quotes, and more.
+
+![Stock Management Screenshot](https://github.com/luchofranq/StockManagement/blob/main/images/table.png?raw=true)
 
 
-<p align="left">
-  ### 
-  [Stock Management](https://github.com/luchofranq/StockManagement)
-  Stock Management is a desktop application built with Java, Python, and SQL designed for managing spare parts stock and quotations. <br>
-  The application provides efficient tools to handle stock control, create quotations, and maintain a history of all transactions.
-  
   - **Technologies:** Java, Python, SQL, React
   - [Read More](https://github.com/luchofranq/StockManagement/blob/c5db8e120cfc4a908ab4221440d387a30b4b7e18/README.md)
-</p>
+
 
 ###
 
