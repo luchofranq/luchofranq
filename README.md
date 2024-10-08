@@ -12,7 +12,7 @@
 
 <p align="left">
   🔭 I’m currently working freelance on desktop apps<br>
-  🌱 I’m currently learning web development
+  🌱 I’m currently learning cybersecurity
 </p>
 
 ###
