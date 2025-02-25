@@ -23,8 +23,7 @@
 A comprehensive application for stock management built with Java, Python, and SQL. This project includes functionalities for adding and modifying stock items, viewing tables of stock, handling Excel file uploads, generating PDF quotes, and more.
 
 
-<img src="https://github.com/luchofranq/StockManagement/blob/main/images/main.png?raw=true" alt="Stock Management Screenshot" width="800" height="auto" align="center" />
-<img src="https://github.com/luchofranq/StockManagement/blob/main/images/quotation.png?raw=true" alt="Stock Management Screenshot" width="800" height="auto" align="center" />
+
 
 
   - **Technologies:** Java, Python, SQL
